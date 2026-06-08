@@ -1,6 +1,8 @@
 # Parking Tickets Interactive Dashboard
 
-This project uses a  parking ticket dataset, cleaned it to build an interactive Streamlit dashboard.
+The project is separated into two notebooks:
+1. Data cleaning notebook: shows all cleaning, merging, null handling, column renaming, and saving the clean CSV.
+2. Machine learning notebook: loads the cleaned CSV, trains predictive models, and evaluates performance.
 
 ## Features
 - Big-picture summary metrics
